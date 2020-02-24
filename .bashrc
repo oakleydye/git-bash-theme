@@ -52,7 +52,7 @@ alias grep='grep -n --color'
 alias op='mintty -o Font="Meslo LG L DZ for Powerline"'
 
 #Theme
-THEME=$HOME/.bash/git_bash_windows_powerline/theme.bash
+THEME=$HOME/.bash/git_bash_theme/theme.bash
 if [ -f $THEME ]; then
 	. $THEME
 fi
