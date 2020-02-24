@@ -1,6 +1,6 @@
 1. Create the path '~/.bash/git_bash_theme/'
 
-2. git clone https://oakley-dye@bitbucket.org/oakley-dye/git_bash_theme.git
+2. git clone https://oakley-dye@bitbucket.org/oakley-dye/git_bash_theme.git into the new directory
 
 3. Copy the following files to the $HOME directory  
   * .bash_profile  
